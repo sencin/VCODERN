@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&lines=Hello,+I'm+VCODERN!;Passionate+Developer+and+Maker;Expermenting+with+Microcontrollers;Making+Innovative+Web+Projects" alt="Animated Header">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&lines=Hello,+I'm+VCODERN!;Passionate+Developer+and+Maker;Exploring+new+Microcontrollers;Making+Innovative+Web+Projects" alt="Animated Header">
 </h1>
 
 ---
