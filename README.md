@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&lines=Hello,+I'm+VCODERN!;Passionate+Developer+and+Maker;Experimenting+with+Microcontrollers;Building+Innovative+Web+Projects">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&lines=Hello,+I'm+VCODERN!;Passionate+Developer+and+Maker;Experimenting+with+Microcontrollers;Building+Innovative+Web+Projects" alt="Animated Header">
 </h1>
 
 ---
@@ -47,7 +47,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VCODERN&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VCODERN&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VCODERN&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -81,3 +81,4 @@
 ---
 
 _**Proudly created with [GPRM](https://gprm.itsvg.in) 🚀**_
+
