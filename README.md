@@ -4,7 +4,7 @@
 </p>
 
 <div style="text-align: center; font-size: 24px; font-style: italic; background-color: #f4f4f4; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 600px; margin: 20px auto; transform: skewX(-10deg); display: flex; justify-content: center; align-items: center; min-height: 100px;">
-  "...............................In the midst of the oceans, there are a lot of unknowns, and thus I will remain in my slumber till my calling.............................."
+  "........................In the midst of the oceans, there are a lot of unknowns, and thus I will remain in my slumber till my calling......................."
 </div>
 
 ---
