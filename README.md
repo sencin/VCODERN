@@ -1,12 +1,19 @@
 <!-- Animated Header -->
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&lines=Hello,+I'm+VCODERN!;Passionate+Developer+and+Maker;Exploring+new+Microcontrollers;Making+Innovative+Web+Projects" alt="Animated Header">
-</h1>
+<p align="center">
+  <img src="assets/cthulu.gif" alt="Cthulhu GIF" width="100%">
+</p>
+
+<div style="text-align: center; font-size: 24px; font-style: italic; background-color: #f4f4f4; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 600px; margin: 20px auto; transform: skewX(-10deg);">
+  "In the midst of the oceans, there are a lot of unknowns, and thus I will remain in my slumber till my calling."
+</div>
 
 ---
 
 ## 💫 **About Me**  
 🚀 Actively coding new websites and experimenting with all kinds of **microcontrollers**!  
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&lines=Hello,+I'm+VCODERN!;Passionate+Developer+and+Maker;Exploring+new+Microcontrollers;Making+Innovative+Web+Projects" alt="Animated Header">
+</h1>
 
 ---
 
@@ -80,4 +87,3 @@
 ---
 
 _**Proudly created with [GPRM](https://gprm.itsvg.in) 🚀**_
-
